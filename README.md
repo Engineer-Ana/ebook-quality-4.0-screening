@@ -7,7 +7,7 @@
 
 ## 🎯 Objetivo
 
-Identificar, dentro de uma base de 72 artigos científicos Open Access (Web of Science), aqueles com aplicação técnica direta de tecnologias habilitadoras da Qualidade 4.0 — gerando a **"Amostra Ouro"** que fundamenta o conteúdo do e-book.
+Identificar, dentro de uma base de 72 artigos científicos Open Access (Web of Science), aqueles com aplicação técnica direta de tecnologias habilitadoras da Qualidade 4.0 — gerando a **"Amostra Diamante"** que fundamenta o conteúdo do e-book.
 
 Este repositório documenta o pipeline de triagem: da base bruta ao conjunto curado, reproduzível e rastreável.
 
