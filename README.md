@@ -20,16 +20,16 @@ ebook-quality-4.0-screening/
 │
 ├── README.md
 ├── data/
-│   └── e-book_acesso-aberto_72docs.xls     ← Base exportada do Web of Science
+│   └── e-book_acesso-aberto_72docs.xls    ← Base exportada do Web of Science
 ├── notebooks/
-│   └── 01_triagem_tecnologias.ipynb        ← Pipeline completo de triagem
+│   └── base_artigos_ebook_qualidade.ipynb        ← Pipeline completo de triagem
 ├── outputs/
-│   └── amostra_ouro_final.xlsx             ← Resultado: artigos selecionados
+│   └── ebook_amostra_diamante_qualidade.xlsx             ← Resultado: artigos selecionados
 └── assets/
     └── graficos/
-        ├── artigos_por_ano.png
-        ├── top_periodicos.png
-        └── frequencia_tecnologias.png
+        ├── artigos-ano.png
+        ├── captura de tela.png
+        └── freq_tec-72-artigos.png
 ```
 
 ---
@@ -86,10 +86,10 @@ cd ebook-quality-4.0-screening
 pip install pandas openpyxl matplotlib seaborn jupyter
 
 # 3. Execute o notebook
-jupyter notebook notebooks/01_triagem_tecnologias.ipynb
+jupyter notebook notebooks/base_artigos_ebook_qualidade.ipynb
 ```
 
-> **Nota:** ajuste o caminho do arquivo de entrada na célula de carregamento conforme seu ambiente local.
+
 
 ---
 
@@ -99,7 +99,7 @@ jupyter notebook notebooks/01_triagem_tecnologias.ipynb
 
 | Distribuição por ano | Top periódicos | Frequência por tecnologia |
 |---|---|---|
-| ![ano](assets/graficos/artigos_por_ano.png) | ![periodicos](assets/graficos/top_periodicos.png) | ![tech](assets/graficos/frequencia_tecnologias.png) |
+| ![ano](assets/graficos/artigos-ano.png) | ![periodicos](assets/graficos/CapturadeTela2026-06-04às23.54.30.png) | ![tech](assets/graficos/freq-tec-72-artigos.png) |
 
 ---
 
@@ -118,8 +118,8 @@ Engenheira de Produção | Mestre em Engenharia Têxtil (Indústria 4.0) — UFS
 
 Atuando na interseção entre **engenharia industrial**, **pesquisa aplicada** e **análise de dados**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anamariadias)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/engineer-ana)
 
 ---
 
