@@ -100,7 +100,7 @@ jupyter notebook notebooks/base_artigos_ebook_qualidade.ipynb
 
 | Distribuição por ano | Top periódicos | Frequência por tecnologia |
 |---|---|---|
-| ![ano](assets/graficos/artigos_por_ano.png) | ![periodicos](assets/graficos/top_periodicos.png) | ![tech](assets/graficos/frequencia_tecnologias.png) |
+| ![ano](assets/gráficos/artigos_por_ano.png) | ![periodicos](assets/gráficos/top_periodicos.png) | ![tech](assets/gráficos/frequencia_tecnologias.png) |
 
 ---
 
