@@ -27,9 +27,9 @@ ebook-quality-4.0-screening/
 │   └── ebook_amostra_diamante_qualidade.xlsx             ← Resultado: artigos selecionados
 └── assets/
     └── graficos/
-        ├── artigos-ano.png
-        ├── captura de tela.png
-        └── freq_tec-72-artigos.png
+        ├── artigos_por_ano.png
+        ├── frequencia_tecnologias.png
+        └── top_periodicos.png
 ```
 
 ---
@@ -57,7 +57,8 @@ A seleção dos termos foi baseada na literatura de referência sobre tecnologia
 | Etapa | Artigos |
 |---|---|
 | Base inicial (Open Access) | 72 |
-| Após triagem por tecnologia | *N = resultado do notebook* |
+| Após triagem por tecnologia | *N = 37* |
+| Taxa de retenção | *51.4% retidos* |
 
 
 ---
@@ -99,7 +100,8 @@ jupyter notebook notebooks/base_artigos_ebook_qualidade.ipynb
 
 | Distribuição por ano | Top periódicos | Frequência por tecnologia |
 |---|---|---|
-| ![ano](assets/graficos/artigos-ano.png) | ![periodicos](assets/graficos/CapturadeTela2026-06-04às23.54.30.png) | ![tech](assets/graficos/freq-tec-72-artigos.png) |
+| ![ano](assets/graficos/artigos_por_ano.png) | ![periodicos](assets/graficos/top_periodicos.png) |
+![tech](assets/graficos/frequencia_tecnologias.png) |
 
 ---
 
