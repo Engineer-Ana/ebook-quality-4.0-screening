@@ -58,7 +58,7 @@ A seleção dos termos foi baseada na literatura de referência sobre tecnologia
 |---|---|
 | Base inicial (Open Access) | 72 |
 | Após triagem por tecnologia | *N = resultado do notebook* |
-| Taxa de retenção | *calculada automaticamente* |
+
 
 ---
 
